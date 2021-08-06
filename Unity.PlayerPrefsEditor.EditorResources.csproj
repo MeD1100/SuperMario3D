@@ -289,6 +289,9 @@
  <Reference Include="Newtonsoft.Json">
  <HintPath>C:/Users/medrh/New Unity Project/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
+ <Reference Include="C4D2UnityEditor">
+ <HintPath>C:/Users/medrh/New Unity Project/Assets/Cineware by Maxon/Plugins/Editor/C4D2UnityEditor.dll</HintPath>
+ </Reference>
  <Reference Include="nunit.framework">
  <HintPath>C:/Users/medrh/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>

@@ -1968,8 +1968,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1080ea695e0b58f4aad4b3fe19582013, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  volumeTextValue: {fileID: 0}
+  volumeSlider: {fileID: 0}
+  defaultVolume: 1
+  controllerSenTextValue: {fileID: 0}
+  controllerSenSlider: {fileID: 0}
+  defaultSen: 4
+  mainControllerSen: 4
+  invertYToggle: {fileID: 0}
+  BrightnessSlider: {fileID: 0}
+  brightnessTextValue: {fileID: 0}
+  defaultBrightness: 1
+  _qualityLevel: 0
+  _isFullScreen: 0
+  _brightnessLevel: 0
+  qualityDropdown: {fileID: 0}
+  fullScreenToggle: {fileID: 0}
+  confirmationPrompt: {fileID: 0}
+  _Loading: 
   _newGameLevel: Level1
   noSavedGameDialog: {fileID: 1654960499}
+  resolutionDropdown: {fileID: 0}
 --- !u!4 &1025377432
 Transform:
   m_ObjectHideFlags: 0

@@ -6,9 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/SuperMario.unity
+    guid: 95e4c0534de4a6e439ae2799ce4d402a
+  - enabled: 1
+    path: Assets/Scenes/selection/selection.unity
+    guid: a6578da96736b32488b089cc98b38293
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: daf89944eb0f2c444ad5038290a50c28
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: f728aa029309aac46a5615ac5ff1763b
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: 3f32702b6fc3f1a44a1f54350f08ec53
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/Level1.unity
-    guid: daf89944eb0f2c444ad5038290a50c28
   m_configObjects: {}

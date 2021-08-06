@@ -84,7 +84,7 @@ public class LoadPrefs : MonoBehaviour
                 controllerSenTextValue.text = localSensitivity.ToString("0.0");
                 menuController.mainControllerSen = Mathf.RoundToInt(localSensitivity);
             }
-
+            
             if (PlayerPrefs.HasKey("masterInvertY")){
                 if(PlayerPrefs.GetInt("masterInvertY") == 1){
                     invertYToggle.isOn = true;

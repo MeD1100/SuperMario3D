@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlayerPrefsEditor.Edi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlayerPrefsEditor.EditorResources", "Unity.PlayerPrefsEditor.EditorResources.csproj", "{f2784001-1142-756d-9a6d-20cb7be6e2eb}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{da69075a-da25-8da6-ba58-6ed404cb536b}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,8 @@ Global
 		{b1e19574-6649-9221-4d6f-13b5696c3acc}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{f2784001-1142-756d-9a6d-20cb7be6e2eb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{f2784001-1142-756d-9a6d-20cb7be6e2eb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{da69075a-da25-8da6-ba58-6ed404cb536b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{da69075a-da25-8da6-ba58-6ed404cb536b}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
